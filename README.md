@@ -1,2 +1,2 @@
 # Data-Cleaning-Using-SQL
-This repository is for a data cleaning project on Nashville housing data using SQL.
+In This Project I used SQL to clean housing data in Nashville.
